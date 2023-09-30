@@ -1,8 +1,8 @@
 {
   "name": "payment-flux-api",
-  "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "version": "1.0.0",
+  "description": "Api that receives payments batch by request, cnab file or csv file",
+  "author": "rodrigocmartins@hotmail.com",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
